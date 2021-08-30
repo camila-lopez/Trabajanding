@@ -1,0 +1,104 @@
+body{
+  background-color: black;
+}
+
+/*HEADER*/
+#logo{
+  width:200px;
+}
+#ques{
+  width:30px;
+  float: right;
+}
+/*HEADER*/
+/*-------------------------------------*/
+
+/*INICIO LOGIN*/
+
+
+#log{
+  width:100%;
+}
+#fornlogin{
+  margin:auto;
+  background-color: #668C9B;
+  border-radius: 20px;
+}
+.rutlog{
+  border-radius: 50px;
+  border:none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.conlog{
+  border-radius: 50px;
+  border:none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#tag{
+  color: #7C0000;
+}
+#tag:hover{
+  color: #AB4300;
+}
+
+
+/*FIN LOGIN*/
+
+/*-------------------------------------*/
+
+/*INICIO REGISTRO*/
+
+
+/*CONTENT*/
+h1{
+  color:white;
+}
+p{
+  color:white;
+}
+h6{
+  color:white;
+}
+#forn{
+  margin:auto;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+#forncenter{
+  margin:auto;
+}
+#fornbutton{
+  margin:auto;
+}
+
+
+/*FIN REGISTRO*/
+
+/*--------------------------------*/
+
+/*INICIO CLIENTES*/
+
+h3{
+  color:white;
+}
+#tab{
+  padding-right: 10px;
+}
+
+
+/*FIN CLIENTES*/
+
+/*----------------------------------*/
+
+/*FOOTER*/
+li{
+  margin-left: 27px;
+}
+
+#fot{
+  width:200px;
+  float: right;
+  margin-bottom: 10px;
+}
